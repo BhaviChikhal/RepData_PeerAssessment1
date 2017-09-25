@@ -1,5 +1,4 @@
 ---
----
 title: "Analyzing FitBit Data"
 author: "Bhavi Vora Chikhal"
 date: "September,2017"
